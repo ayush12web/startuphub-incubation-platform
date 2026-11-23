@@ -98,18 +98,6 @@ Do not commit real `.env` files, database passwords, JWT secrets, or Supabase se
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
 
-## Development Status
-
-The project is being developed in stages:
-
-- [x] Initial Figma-generated frontend source received
-- [ ] Frontend structure finalized
-- [ ] Supabase database schema designed
-- [ ] Express backend initialized
-- [ ] Authentication and role-based access implemented
-- [ ] Student, Admin, and Mentor workflows implemented
-- [ ] Frontend and backend integrated
-- [ ] Testing and deployment
 
 ## Contributors
 
