@@ -65,11 +65,10 @@ Each role has specific permissions and responsibilities throughout the incubatio
 
 The platform follows a three-tier client-server architecture.
 
-1. **Presentation Layer:** React frontend handles user interaction and dashboards.
-2. **Application Layer:** Node.js and Express.js manage APIs, authentication, authorization, and business logic.
-3. **Database Layer:** Supabase PostgreSQL stores and manages platform data.
+1. Presentation Layer: React frontend handles user interaction and dashboards.
+2. Application Layer: Node.js and Express.js manage APIs, authentication, authorization, and business logic.
+3. Database Layer: Supabase PostgreSQL stores and manages platform data.
 
-Architecture Diagram
 
  🔄 Application Workflow
 
@@ -140,7 +139,6 @@ Database Connection: The Express backend will connect to Supabase PostgreSQL usi
  📁 Project Structure
  
 startuphub-incubation-platform/
-│
 ├── frontend/
 │   ├── public/
 │   └── src/
@@ -190,9 +188,8 @@ startuphub-incubation-platform/
 
 The structure above represents the planned project organization. It will be updated as implementation progresses.
 
----
 
-## 🔐 Security Considerations
+ 🔐 Security Considerations
 
 - Secure user authentication.
 - Password hashing.
