@@ -2,7 +2,7 @@
 
 StartupHub is a web-based incubation management platform intended to connect students and startup founders, administrators, and mentors. It aims to organize startup registration, application submission, screening, evaluation, mentorship, and progress tracking in one place.
 
-> **Project status:** Under development. The current repository begins with a Figma-generated frontend. Backend APIs and Supabase database integration are planned implementation work.
+> **Project status:** Under development. The current repository begins with frontend. Backend APIs and Supabase database integration are planned implementation work.
 
 ## Planned Features
 
